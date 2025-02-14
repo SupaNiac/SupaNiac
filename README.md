@@ -6,7 +6,7 @@
 ![SupaNiac's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupaNiac&show_icons=true&theme=synthwave)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupaNiac&layout=compact&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupaNiac&theme=radical&layout=compact&hide_progress=false)
 
 
 ## Tecnologias que eu uso: 
@@ -28,4 +28,5 @@
 
 </div>
 
+☄️ ✨ Tentando ser o melhor que eu posso ser ✨ ☄️
 
