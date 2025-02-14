@@ -26,7 +26,7 @@
        <img align="center" alt="html5"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     </img>
 
-</div>
+</div></br>
 
 ☄️ ✨ Tentando ser o melhor que eu posso ser ✨ ☄️
 
